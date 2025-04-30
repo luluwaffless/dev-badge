@@ -1,0 +1,7 @@
+{
+    "token": "discord_bot_token",
+    "clientId": "discord_bot_client_id",
+    "channelId": "",
+    "userId": "",
+    "lastMessage": 0
+}
